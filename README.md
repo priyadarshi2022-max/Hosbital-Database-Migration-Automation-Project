@@ -11,6 +11,8 @@ The core of this project is a single, automated SQL script that handles the enti
 The final database is normalized into seven interconnected tables, ensuring data integrity and minimizing redundancy. The schema is designed to manage all core hospital functionalities, including departments, doctors, patients, appointments, and billing.
 
 [Hospital Database ERD](https://github.com/priyadarshi2022-max/Hospital-Database-Migration-Automation-Project/raw/84e0a04abf406a82592a4886a64728be1d19c258/Database%20design.png)
+<img width="1361" height="830" alt="image" src="https://github.com/user-attachments/assets/c402d054-e579-4cff-b6a1-28d28c6d8149" />
+
 
 
 For the complete table structure and relationships, see the `schema.sql` file.
