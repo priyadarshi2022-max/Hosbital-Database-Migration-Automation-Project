@@ -37,8 +37,8 @@ Follow these steps to set up the database and run the automated data migration.
 
 **Clone the Repository:**
 ```bash
-git clone [https://github.com/your-username/Data-Analytics-Projects.git](https://github.com/your-username/Data-Analytics-Projects.git)
-cd Data-Analytics-Projects
+git clone https://github.com/priyadarshi2022-max/Hospital-Database-Migration-Automation-Project.git
+cd Hospita-Database-Migration-Automation-Project
 ```
 
 **Place the Data File:**
