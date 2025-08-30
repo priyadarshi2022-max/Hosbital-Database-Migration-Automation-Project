@@ -10,7 +10,7 @@ The core of this project is a single, automated SQL script that handles the enti
 
 The final database is normalized into seven interconnected tables, ensuring data integrity and minimizing redundancy. The schema is designed to manage all core hospital functionalities, including departments, doctors, patients, appointments, and billing.
 
-[Database design.png]
+![alt text](Database design.png)
 
 
 
